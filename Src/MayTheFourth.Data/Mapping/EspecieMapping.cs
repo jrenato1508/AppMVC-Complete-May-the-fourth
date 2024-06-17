@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MayTheFourth.Data.Mapping
 {
-    public class FilmeMapping
+    public class EspecieMapping
     {
     }
 }
